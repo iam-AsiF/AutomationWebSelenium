@@ -7,93 +7,93 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/client-combined-3.14.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/byte-buddy-1.8.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/client-combined-3.14.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/client-combined-3.14.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/client-combined-3.14.0-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/commons-codec-1.10.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/commons-codec-1.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/commons-exec-1.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/commons-logging-1.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/guava-25.0-jre.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/guava-25.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/httpclient-4.5.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/httpclient-4.5.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/httpcore-4.4.9.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/httpcore-4.4.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/okhttp-3.10.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/okhttp-3.10.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../SQA/AutomationWeb/selenium-java-3.14.0/libs/okio-1.14.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../SQA/Square/Automation Web/selenium-java-3.14.0/libs/okio-1.14.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
